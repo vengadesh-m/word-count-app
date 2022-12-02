@@ -1,0 +1,20 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+textarea{
+    display: flex;
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+}
+
+.para {
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
